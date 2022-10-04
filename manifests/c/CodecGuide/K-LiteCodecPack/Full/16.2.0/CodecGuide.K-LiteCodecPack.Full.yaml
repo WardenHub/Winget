@@ -1,8 +1,0 @@
-# Created using wingetcreate
-
-PackageIdentifier: CodecGuide.K-LiteCodecPack.Full
-PackageVersion: 16.2.0
-DefaultLocale: en-US
-ManifestType: version
-ManifestVersion: 1.0.0
-
